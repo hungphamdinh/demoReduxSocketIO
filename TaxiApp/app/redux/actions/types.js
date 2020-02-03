@@ -1,0 +1,2 @@
+export const SEND_MESSAGE='SEND_MESSAGE';
+export const CHANGE_MESSAGE='RESET_MESSAGE';
